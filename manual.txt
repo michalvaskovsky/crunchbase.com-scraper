@@ -1,0 +1,9 @@
+1. Install depedencies
+# pip install mechanize
+# pip install xlsxwriter
+# pip install user_agent
+
+2. To run a script use command:
+python main.py --company="yahoo" --outfile="yahoo.xlsx"
+
+
